@@ -1,0 +1,35 @@
+bool validIPv4(string ipv4)
+            {
+                string[] ip = ipv4.Split('.');
+                if(ip.Length < 4)
+                {
+                    return false;
+                }
+                for (int p = 0; p <= ip.Length - 1; p++)
+                {
+                    string part = ip[p];
+                    part = part.Replace(".", string.Empty);
+
+                    if ((part.Length > 1) && (part[0].Equals('0')))
+                    {
+                        return false;
+                    }
+                    else
+                    {
+                        try
+                        {
+                            int intpart = Convert.ToInt32(part);
+                            if ((intpart < 0) || (intpart > 255))
+                            {
+                                return false;
+                            }
+                        }
+                        catch (Exception e)
+                        {
+                            return false;
+                        }
+
+                    }
+                }
+                return true;
+            }
