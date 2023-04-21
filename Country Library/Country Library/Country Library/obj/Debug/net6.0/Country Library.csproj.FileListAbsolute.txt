@@ -1,0 +1,31 @@
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\appsettings.Development.json
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\appsettings.json
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Country Library.exe
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Country Library.deps.json
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Country Library.runtimeconfig.json
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Country Library.dll
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Country Library.pdb
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.csproj.AssemblyReference.cache
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.AssemblyInfoInputs.cache
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.AssemblyInfo.cs
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.csproj.CoreCompileInputs.cache
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets\msbuild.Country Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Country Library.props
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Country Library.props
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Country Library.props
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets.build.json
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\staticwebassets.development.json
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\scopedcss\bundle\Country Library.styles.css
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.csproj.CopyComplete
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.dll
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\refint\Country Library.dll
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.pdb
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\Country Library.genruntimeconfig.cache
+D:\Country Library\Country Library\Country Library\obj\Debug\net6.0\ref\Country Library.dll
+D:\Country Library\Country Library\Country Library\bin\Debug\net6.0\Newtonsoft.Json.dll
